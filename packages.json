@@ -3,6 +3,6 @@
     "package": "thinkthen",
     "url": "https://github.com/botassembly/thinkthen",
     "subdir": "sdk/r",
-    "branch": "*release"
+    "branch": "v0.2.0-registry-recovery.1"
   }
 ]
