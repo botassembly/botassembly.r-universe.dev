@@ -2,7 +2,7 @@
   {
     "package": "thinkthen",
     "url": "https://github.com/botassembly/thinkthen",
-    "subdir": "libraries/r/thinkthen",
+    "subdir": "sdk/r",
     "branch": "*release"
   }
 ]
